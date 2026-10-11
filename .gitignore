@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.vercel/
+.venv/
+__pycache__/
+*.pyc
+workforge.sqlite3
+.env
+.env.*
+!.env.example
